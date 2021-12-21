@@ -7,6 +7,9 @@
 	<title>Nilson Gaspar - Portfolio - Personal</title>
 </svelte:head>
 
-<Description/>
-<Projects/>
-<slot />
+      
+<div class="md:container md:mx-auto">
+    <Description/>
+    <Projects/>
+    <slot />
+  </div>
