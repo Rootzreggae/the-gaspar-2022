@@ -1,20 +1,27 @@
-
-
-<div class="container mx-auto space-y-2 lg:space-y-0 lg:gap-2 lg:grid lg:grid-cols-2">
-    <div class="w-full rounded hover:opacity-50">
-        <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80"
-            alt="image">
+<div class="container mx-auto space-y-2 md:space-y-0 md:gap-2 lg:grid lg:grid-cols-2 ">
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
     </div>
-    <div class="w-full rounded hover:opacity-50">
-        <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80"
-            alt="image">
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
     </div>
-    <div class="w-full rounded hover:opacity-50">
-        <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80"
-            alt="image">
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
     </div>
-    <div class="w-full rounded hover:opacity-50">
-        <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80"
-            alt="image">
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
+    </div>
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
+    </div>
+    <div class="w-full rounded ">
+       <img src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
     </div>
 </div>
+
+<style>
+    .container{
+        margin-top: 2em;
+    }
+</style>
+
