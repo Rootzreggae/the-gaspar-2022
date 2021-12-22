@@ -1,6 +1,6 @@
-<div class="navbar mb-2">
+<div class="navbar mb-2 md:flex px-9">
     <div class="px-2 mx-2 navbar-start">
-        <span class="text-lg font-bold">
+        <span class="text-lg font-bold ">
             <a href="/">Nilson Gaspar</a>
         </span>
     </div>
@@ -19,9 +19,10 @@
 
 <style>
     .navbar {
-       background-color: #3d4451;
-       height: 160px;
-       padding: 4vw;
+        background-color: #3d4451;
+        height: 160px;
+       
     }
-  
+
+ 
 </style>
