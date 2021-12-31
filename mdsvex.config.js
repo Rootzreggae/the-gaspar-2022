@@ -1,7 +1,10 @@
 const config = {
+  
+  
+
   layout: {
-    blog: "./src/blog/blogLayout.svelte"
-  }, 
+    blog: "src/routes/blog/_post.svelte"
+  },
   extensions: [".svelte.md", ".md", ".svx"],
 
   smartypants: {

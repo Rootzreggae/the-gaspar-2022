@@ -1,6 +1,6 @@
 <script>
-    import Description from "../components/description.svelte";
-    import Projects from "../components/projects.svelte";
+    import Description from "$lib/components/description.svelte";
+    import Projects from "$lib/components/projects.svelte";
 
 </script>
 <svelte:head>

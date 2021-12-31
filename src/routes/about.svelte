@@ -1,6 +1,6 @@
 <script>
 
-	import Mycard from "../components/mycard.svelte";
+	import Mycard from "$lib/components/mycard.svelte";
 </script>
 
 
