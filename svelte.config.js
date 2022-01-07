@@ -11,13 +11,7 @@ const config = {
   extensions: [".svelte", ...mdsvexConfig.extensions],
 
   kit: {
-    adapter: adapter(
-      {
-        // if true, will split your app into multiple functions
-        // instead of creating a single one for the entire app
-        split: false
-      }
-    ),
+    adapter: adapter(),
 
     // hydrate the <div id="svelte"> element in src/app.html
     target: "#svelte",
