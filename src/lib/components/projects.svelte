@@ -1,31 +1,59 @@
-<div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-2 mx-auto px-4">
-    
-    <div class="w-full rounded hover:opacity-50">
-        <img
-            src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-            alt=""
-        />
-    </div>
-    <div class="w-full rounded hover:opacity-50">
-        <img
-            src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-            alt=""
-        />
-    </div>
-    <div class="w-full rounded hover:opacity-50">
-        <img
-            src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-            alt=""
-        />
-    </div>
+<div
+    class="latest container grid lg:grid-cols-1 xs:grid-cols-1 gap-8 mx-auto px-4"
+>
+    <strong>Latest writing</strong>
 
-    <div class="w-full rounded ">
-        <div class="mockup-phone border-primary">
-            <div class="camera" />
-            <div class="display">
-                <div class="artboard phone-1 artboard-demo" />
-            </div>
-        </div>
+    <div class="post">
+        <a href="./blog/getting-through-complexity">
+            <h3>Getting through the complexity of daily life and design</h3>
+            <div class="date">January 5, 22</div>
+        </a>
+    </div>
+    <div class="writings"><a href="/blog">All writing →</a></div>
+</div>
+
+<div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-8 mx-auto px-4">
+    <div class="">
+        <img src="src/lib/components/img/jungleAI.png" alt="" />
+        <br />
+        <p class="p-title">Jungle.AI - Predicting asset underperformance</p>
+
+        <p class="p-subtitle">
+            How can we increase production and prevent unplanned downtime?
+        </p>
+    </div>
+    <div class="">
+        <img src="src/lib/components/img/Franke.png" alt="" />
+        <br />
+        <p class="p-title">Franke.com - Evolving and scaling a B2B portal</p>
+
+        <p class="p-subtitle">
+            How might we rebuild and scale a B2B portal in an efficient and
+            cohesive yet flexible enough way to serve 8 countries/languages?
+        </p>
+    </div>
+    <div class="">
+        <a href="/koeo"><img src="src/lib/components/img/koeo.png" alt="" /></a>
+
+        <br />
+        <p class="p-title">KOEO - Football streaming app</p>
+
+        <p class="p-subtitle">
+            How might we create an affordable and enjoyable streaming
+            experience?
+        </p>
+    </div>
+    <div class="">
+        <a href="/elsaspeaks">
+            <img src="src/lib/components/img/ELSA.png" alt="" />
+        </a>
+        <br />
+        <p class="p-title">ELSA - personal AI-powered speaking coach</p>
+
+        <p class="p-subtitle">
+            What can be done to improve peoples perception of the brand and
+            product?
+        </p>
     </div>
 </div>
 
@@ -34,8 +62,34 @@
         margin-top: 2em;
     }
 
-    .artboard-demo {
-        background-image: url("src/components/projects/img/phoneframe1testphone.png");
-        background-size: cover;
+    .p-title {
+        font-size: 1.5em;
+    }
+    .p-subtitle {
+        font-size: 1.3em;
+
+        color: gray;
+    }
+
+    .latest {
+        margin-top: 18em;
+        margin-bottom: 18em;
+    }
+
+    .latest h3 {
+        font-size: 2em;
+    }
+
+    .latest a:hover {
+        color: #f000b8;
+    }
+
+    .writings{
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        text-decoration: underline;
+        font-size: 1.2em;
     }
 </style>

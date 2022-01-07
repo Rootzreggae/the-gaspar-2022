@@ -2,24 +2,27 @@
   <div class="">
     <img
       class="px-4"
-      src="https://images.pexels.com/photos/10003543/pexels-photo-10003543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      src="src/lib/components/img/NILSON.png"
       alt=""
     />
   </div>
   <div class="px-4 text-lg">
     <p>
-      A curious, thoughtful, multi-disciplinary designer with more than 10 years
-      of experience building digital products.
+      A curious, thoughtful, multi-disciplinary designer with over 11 years of
+      expertise building digital products.
     </p>
     <br />
     <p>
-      Currently I work as Senior Product Designer at KI.Challengers, helping to
-      build and grow new ventures.
+      Currently I work as Senior Product Designer at <a
+        href="https://www.ki-challengers.com/"
+        class="link link-primary">KI.Challengers</a
+      >, helping to build and grow new ventures.
     </p>
     <br />
     <p>
-      I'm focused on empowering my team by helping them connect ideas, projects,
-      and understand what human needs are to build the best solution.
+      To build the best solution, I'm focused on empowering my team by assisting
+      them in connecting ideas, projects, and understanding what human
+      requirements are.
     </p>
     <br />
     <p>
@@ -30,7 +33,5 @@
 </div>
 
 <style>
-  .container {
-    height: 80vh;
-  }
+  
 </style>
