@@ -14,7 +14,7 @@
 
 <div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-8 mx-auto px-4">
     <div class="">
-        <img src="src/lib/components/img/jungleAI.png" alt="" />
+        <img src="https://i.postimg.cc/BvKNsSdg/jungleAI.png" alt="" />
         <br />
         <p class="p-title">Jungle.AI - Predicting asset underperformance</p>
 
@@ -23,7 +23,7 @@
         </p>
     </div>
     <div class="">
-        <img src="src/lib/components/img/Franke.png" alt="" />
+        <img src="https://i.postimg.cc/gJyDXMcL/Franke.png" alt="" />
         <br />
         <p class="p-title">Franke.com - Evolving and scaling a B2B portal</p>
 
@@ -33,7 +33,7 @@
         </p>
     </div>
     <div class="">
-        <a href="/koeo"><img src="src/lib/components/img/koeo.png" alt="" /></a>
+        <a href="/koeo"><img src="https://i.postimg.cc/YCV8JGy0/koeo.png" alt="" /></a>
 
         <br />
         <p class="p-title">KOEO - Football streaming app</p>
@@ -45,7 +45,7 @@
     </div>
     <div class="">
         <a href="/elsaspeaks">
-            <img src="src/lib/components/img/ELSA.png" alt="" />
+            <img src="https://i.postimg.cc/nzf2L8xt/ELSA.png" alt="" />
         </a>
         <br />
         <p class="p-title">ELSA - personal AI-powered speaking coach</p>

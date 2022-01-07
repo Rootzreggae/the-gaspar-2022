@@ -2,7 +2,7 @@
   <div class="">
     <img
       class="px-4"
-      src="src/lib/components/img/NILSON.png"
+      src="https://i.postimg.cc/D02cqqmj/NILSON.png"
       alt=""
     />
   </div>
