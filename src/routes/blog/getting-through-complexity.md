@@ -137,4 +137,10 @@ a:hover{
   text-decoration: underline;
 }
 
+p{
+  
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-weight: 400;
+}
+
 </style>

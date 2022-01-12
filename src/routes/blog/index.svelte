@@ -18,12 +18,11 @@
 <div class="container mx-auto ">
     <h2>Every now and again, I write down my thoughts in this space.</h2>
     <h2>
-        Product design, creativity, teamwork, productivity, and other topics are discussed.
+        Product design, creativity, teamwork, productivity, and other topics are
+        discussed.
     </h2>
     <br />
     <br />
-
-   
 
     {#each posts as post}
         <h3>
@@ -31,15 +30,17 @@
                 {post.meta.title}
             </a>
         </h3>
-        <br>
+        
         Published {post.meta.date}
+        
     {/each}
+    
 </div>
 
 <style>
     .container {
-       
         max-width: 1200px;
+        
     }
 
     h2 {
@@ -49,6 +50,6 @@
     h3 {
         font-size: 1.875rem;
         line-height: 2.25rem;
+        margin-bottom: .5em;
     }
-
 </style>
