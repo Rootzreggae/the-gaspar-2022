@@ -72,8 +72,9 @@
     }
 
     .latest {
-        margin-top: 18em;
-        margin-bottom: 18em;
+        margin-top: 6em;
+        margin-bottom: 6em;
+        
     }
 
     .latest h3 {
