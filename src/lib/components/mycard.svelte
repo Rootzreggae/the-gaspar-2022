@@ -1,10 +1,6 @@
 <div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-2 mx-auto px-4">
   <div class="">
-    <img
-      class="px-4"
-      src="https://i.postimg.cc/D02cqqmj/NILSON.png"
-      alt=""
-    />
+    <img class="px-4" src="https://i.postimg.cc/D02cqqmj/NILSON.png" alt="" />
   </div>
   <div class="px-4 text-lg">
     <p>
@@ -29,9 +25,14 @@
       My strengths are primarily in having a growth mindset, encouraging
       creative thinking, and authenticity.
     </p>
+    <br />
+    <p>
+      Frameworks, design process, system thinking, design systems, diversity,
+      inclusivity, calisthenics workout, comic books, manga, and anime are some
+      of my favorite things.
+    </p>
   </div>
 </div>
 
 <style>
-  
 </style>
