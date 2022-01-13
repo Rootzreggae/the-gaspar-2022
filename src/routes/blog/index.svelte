@@ -15,7 +15,7 @@
     export let posts;
 </script>
 
-<div class="container mx-auto ">
+<div class="container mx-auto text-xs md:text-sm px-4">
     <h2>Every now and again, I write down my thoughts in this space.</h2>
     <h2>
         Product design, creativity, teamwork, productivity, and other topics are
