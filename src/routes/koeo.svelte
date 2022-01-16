@@ -2,7 +2,7 @@
     <h1>case study: DESIGNING A FOOTBALL STREAMING APP FROM THE GROUND UP</h1>
     <br />
 
-    <p>
+    <p class="text-lg">
         Keep One Eye Open (Koeo) is a premium Stream & Search app that allows
         you to watch football events while also interacting with players,
         coaches, and other football fans.
@@ -223,10 +223,10 @@ The greatest benefit Koeo gives serious football fans is the affordability and f
         line-height: 2em;
     }
 
-    p {
+    /* p {
         line-height: 2em;
         font-size: 1.2em;
-    }
+    } */
     li {
         line-height: 2em;
         font-size: 1.2em;

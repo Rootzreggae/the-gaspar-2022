@@ -22,7 +22,13 @@
 
 <div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-8 mx-auto px-4">
     <div class="">
-        <img src="https://i.postimg.cc/BvKNsSdg/jungleAI.png" alt="" />
+        <a href="/jungle">
+        
+        
+            <img src="https://i.postimg.cc/nrDTP5yn/jungleAI.png" alt="" />
+        
+        </a>
+       
         <br />
         <p class="p-title">Jungle.AI - Predicting asset underperformance</p>
 
