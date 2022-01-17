@@ -4,6 +4,11 @@
     <strong>Latest writing</strong>
 
     <div class="post">
+        <a href="./blog/Design-and-drive">
+            <h3>Why Designers shouldn't be allowed to drive</h3>
+            <div class="date">January 17, 22</div>
+        </a>
+       <br>
         <a href="./blog/creativity">
             <h3>Some thoughts about creativity</h3>
             <div class="date">January 10, 22</div>
