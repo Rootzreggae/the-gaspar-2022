@@ -28,11 +28,11 @@ My first car was an Opel Astra from 1993. She (yes) had already been in use for 
 
 <br>
 
-Because of the mileage, the engine leaked oil, and I had to top off the oil tank on a monthly basis to keep it level. Buying an oil bottle every two months and keeping it in the trunk became second nature. Despite not having an expert level of grasp of how an automotive engine functions at the time (or today), I did it for three years straight.
+Because of the mileage, the engine leaked oil, and I had to top off the oil tank on a monthly basis to keep it level. Buying an oil jug every two months and keeping it in the trunk became second nature. Despite not having an expert level of grasp of how an automotive engine functions at the time (or today), I did it for three years straight.
 
 <br>
 
-To maintain the car operating smoothly, I didn't need to know much about engines to realize that I needed to check the oil level and draw the oil measurement dipstick from time to time.
+To maintain the car operating smoothly, I didn't need to know much about engines to realize that I needed to draw the oil measurement dipstick from time to time to check the oil level.
 
 <br>
 
@@ -70,7 +70,7 @@ Yes. You don't need to be an expert in html, css, javascript, or any other frame
 
 <br>
 
-If you believe designer’s shouldn’t code, then by that logic designers shouldn’t be allowed to drive. If you're going to produce digital products for the future, I believe you should at least have a fundamental understanding of HTML and CSS.
+If you believe designer’s shouldn’t code, then by that logic designers shouldn’t be allowed to drive. If you're going to produce digital products for the future, I believe you should at least have a basic understanding of HTML and CSS.
 
 <br>
 
