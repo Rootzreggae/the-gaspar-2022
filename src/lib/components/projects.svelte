@@ -4,6 +4,21 @@
     <strong>Latest writing</strong>
 
     <div class="post">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <a href="./blog/One-thing-to-improve">
+            <h3>One thing you could do better about yourself</h3>
+            <div class="date">February 10, 22</div>
+        </a>
+       <br>
         <a href="./blog/Design-and-drive">
             <h3>Why Designers shouldn't be allowed to drive</h3>
             <div class="date">January 17, 22</div>
