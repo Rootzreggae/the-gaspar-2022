@@ -3,7 +3,7 @@
         <p class=" description">
             Senior Product Designer at <a
                 class="link link-primary"
-                href="https://www.ki-challengers.com/">KI.Challengers</a
+                href="https://grafana.com/">Grafana Labs</a
             > . Previously led design at Jungle.AI, Comparamais.pt, designed for
             200+ million users at Aptoide.
         </p>
