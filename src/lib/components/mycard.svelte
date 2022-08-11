@@ -10,8 +10,8 @@
     <br />
     <p>
       Currently I work as Senior Product Designer at <a
-        href="https://www.ki-challengers.com/"
-        class="link link-primary">KI.Challengers</a
+        href="https://grafana.com/"
+        class="link link-primary">Grafana Labs</a
       >, helping to build and grow new ventures.
     </p>
     <br />
