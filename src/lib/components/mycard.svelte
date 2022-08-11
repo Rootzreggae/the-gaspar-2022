@@ -12,7 +12,7 @@
       Currently I work as Senior Product Designer at <a
         href="https://grafana.com/"
         class="link link-primary">Grafana Labs</a
-      >, helping to build and grow new ventures.
+      >, helping to build and grow products.
     </p>
     <br />
     <p>
