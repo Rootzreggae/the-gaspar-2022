@@ -16,7 +16,7 @@
             <div class="date">August 22, 22</div>
         </a>
         
-        
+        <br>
         
         <a href="./blog/One-thing-to-improve">
             <h3>One thing you could do better about yourself</h3>
