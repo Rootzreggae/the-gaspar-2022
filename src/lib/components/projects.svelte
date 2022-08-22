@@ -11,6 +11,10 @@
         
         
         
+        <a href="./blog/The-best-method-of-learning">
+            <h3>The ‘best’ method of learning</h3>
+            <div class="date">August 22, 22</div>
+        </a>
         
         
         
@@ -30,11 +34,7 @@
         </a>
        <br>
        
-        <a href="./blog/getting-through-complexity">
-            <h3>Getting through the complexity of daily life and design</h3>
-            <div class="date">January 5, 22</div>
-        </a>
-        
+     
        
     </div>
     <div class="writings"><a href="/blog">All writing →</a></div>
