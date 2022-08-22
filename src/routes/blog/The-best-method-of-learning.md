@@ -18,7 +18,7 @@ categories:
 Learning is one of our most important capabilities. A curious mind and willingness to learn new things will help you stay on top of your game as a Designer. 
 
 <br>
-Learning is one of our most important capabilities. It's what makes us human and it's what makes us special.
+It's what makes us human and it's what makes us special.
 
 Human nature is fundamentally based on learning. It's also one of the ways humans adjust to change, so we must create learning strategies that are appropriate for each one of us. If a learning approach works for you, it might not work for me, and vice versa.
 
