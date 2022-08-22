@@ -15,13 +15,9 @@ categories:
 
 
 <br>
-
 Learning is one of our most important capabilities. A curious mind and willingness to learn new things will help you stay on top of your game as a Designer. 
 
 <br>
-
-
-
 Learning is one of our most important capabilities. It's what makes us human and it's what makes us special.
 
 Human nature is fundamentally based on learning. It's also one of the ways humans adjust to change, so we must create learning strategies that are appropriate for each one of us. If a learning approach works for you, it might not work for me, and vice versa.
@@ -37,7 +33,6 @@ Learning continues to shape who we are as individuals and as members of society 
 
 ## cu·​ri·​os·​i·​ty
 <br>
-
 The initial stage in learning is curiosity. It's what motivates you to get out of bed in the morning and keeps you going even when it seems pointless. Even though things don't seem to make sense at first, it is what prompts you to ask questions and look for solutions. The need to improve both as individuals and as contributors to society at large drives us to learn new things, whether they be languages, sports techniques, or cooking methods.
 
 <br> 
@@ -51,24 +46,20 @@ Curiosity has been shown time and again to be an important quality for success i
 ## rea·​son·​ing
 
 <br>
-
 Reasoning is at the heart of human intelligence. It's what we do to get things done and make sense of our surroundings. Reasoning can be used in many ways:
 to solve problems, to understand information, including abstract concepts like math or science, to make good decisions about what to do next, based on past experiences or knowledge.
 
 <br>
-
+<br>
 
 ## learn·​ing 
 
 <br>
-
 Learning is a lifelong process. It's not something you do once in your life, then never again. Learning is a necessity for survival and happiness; it's something we all do on a daily basis to make sure that we're able to adapt and evolve with the world around us.
 
 <br>
-
 Learning is also a choice—a decision made by each individual who chooses how they want their lives to go. 
-
-
+<br>
 Learning can be learned through books or other sources of information; this type of learning will allow you to know more about yourself and others around you as well as expand your mind beyond what's currently available within society today.
 
 <br>
