@@ -9,7 +9,11 @@
         
         
         
-        
+        <a href="./blog/figma-has-died">
+            <h3>Figma has died.</h3>
+            <div class="date">September 22, 22</div>
+        </a>
+       <br>
         
         <a href="./blog/The-best-method-of-learning">
             <h3>The ‘best’ method of learning</h3>
@@ -28,11 +32,7 @@
             <div class="date">January 17, 22</div>
         </a>
        <br>
-        <a href="./blog/creativity">
-            <h3>Some thoughts about creativity</h3>
-            <div class="date">January 10, 22</div>
-        </a>
-       <br>
+      
        
      
        
