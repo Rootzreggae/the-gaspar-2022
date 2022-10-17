@@ -40,7 +40,7 @@
     <div class="writings"><a href="/blog">All writing →</a></div>
 </div>
 
-<div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-8 mx-auto px-4">
+<!-- <div class="container grid lg:grid-cols-2 xs:grid-cols-1 gap-8 mx-auto px-4">
     <div class="">
         <a href="/jungle">
         
@@ -89,7 +89,7 @@
             product?
         </p>
     </div>
-</div>
+</div> -->
 
 <style>
     .container {
